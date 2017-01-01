@@ -1,0 +1,12 @@
+#sidebar-wrapper h2, #sidebar-wrapper h3, #sidebar-wrapper h4 {
+color: #fff;
+background: #1A7C62;
+}
+#menu{
+background: #1A7C62;
+color: #FFF;
+}
+#menu a{
+color: #FFF;
+background: url(http://3.bp.blogspot.com/-8Nvjv-ye0oI/UnJ8WC5dJhI/AAAAAAAAAKw/RugK_fyN0aI/s1600/menuborder.png) no-repeat right;
+}
